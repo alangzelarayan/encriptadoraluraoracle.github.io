@@ -1,2 +1,2 @@
 # encriptadoraluraoracle.github.io
-Proyect encrypt-unencrypt a mensaje type text
+Proyect encrypt-unencrypt a message type text
